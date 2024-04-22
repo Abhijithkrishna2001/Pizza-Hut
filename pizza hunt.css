@@ -1,0 +1,520 @@
+.header{
+    width: 100%;
+    height: 50px;
+    background: white;
+    margin: 0;
+}
+.image{
+    width: 154px;
+    margin-inline: 137px;
+    padding: 15px;
+}
+.logo{
+    width: 87%;
+    height: 37px;
+    float: left; 
+}
+.login{
+    color: rgb(107, 110, 121);
+    width: 13%;
+    font-size: 14px;
+    height: 37px;
+    float: left;
+    margin-inline: -35px;
+    padding: 20px;
+    font-family: "Open Sans", system-ui, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: normal;
+    text-decoration: underline dotted;
+    text-underline-position: under;
+    white-space: nowrap;   
+}
+.image1{
+    width: 100%;
+    height: 400px;
+    margin: -17px;
+    margin-inline: 1px;
+}
+body{
+    margin: 0;
+}
+.delivery{
+    width: 188px;
+    height: 50px;
+    background: white;
+    transform: translateZ(0);
+    text-rendering: optimizeLegibility;
+    margin-inline: 434px;
+    margin-top: -117px;
+    padding-top: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.self-end{
+    margin-right: 2px;
+    align-self: flex-end;
+}
+.icone{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%; 
+    margin-left: 5px;  
+}
+.tag{
+    margin-left: 6px;
+    margin-top: -3px;
+    font-family: Sharp Sans Semibold Display No1, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #da291c;
+}
+.delivery:hover{
+    background: #d9dde3;
+    align-self: flex-end;
+    filter: grayscale(100%) contrast(80%);
+    align-self: flex-end;
+}
+.box{
+    margin-inline: 12px;
+    width: 88%;
+    height: 32px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.collect{
+    width: 294px;
+    height: 64px;
+    background: white;
+    transform: translateZ(0);
+    text-rendering: optimizeLegibility;
+    margin-left: 625px;
+    margin-top: -64px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.icone-col{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin-left: 5px;
+}
+.tag-1{
+    margin-top: -3px;
+    margin-left: 6px;
+    font-weight: 600;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    font-family: Sharp Sans Semibold Display No1, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    color: #da291c;    
+}
+.box-1{
+    margin-top: 12px;
+    margin-left: 9px;
+    float: left;
+    width: 274px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background: transparent;
+}
+.collect:hover{
+    background: #d9dde3;
+    align-self: flex-end;
+    filter: grayscale(100%) contrast(80%);
+    align-self: flex-end;    
+}
+.localisation{
+    box-shadow: 0 20px 12px 0 rgba(0, 0, 0, 0.2), 0 20px 8px 0 rgba(0, 0, 0, 0.19);
+    margin-top: -5px;
+    margin-left: 434px;
+    width: 445px;
+    height: 178px;
+    background: white;
+    transform: translateZ(0);
+    text-rendering: optimizeLegibility;
+    padding: 20px;
+}
+.para{
+    letter-spacing: -1px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Sharp Sans Bold Display No1, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.75;
+}
+.para-1{
+    font-family: Sharp Sans Bold Display No1, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+
+}
+
+.text{
+    border: 0;
+    padding-left: 7px;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    width: 98%;
+    height: 32px;
+    margin-top: 13px;
+    font-weight: 600;      
+}
+.location{
+    width: 388px; 
+    height: 47px;
+    background: white;
+}
+.icon1{
+    height: 16px;
+    margin-top: 15px;
+    margin-left: 8px;
+}
+.find-location{
+    margin-top: -21px;
+    margin-left: 35px;
+    color: #4a90e2;
+}
+.border{
+    height: 113px;
+    border-style: groove;
+    margin-top: 11px;
+
+}
+.line{
+    margin-top: 60px 
+}
+.deals{
+    background: white;
+    font-family: Sharp Sans Bold Display No1, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    margin-top: -30px;
+    margin-left: 545px;
+    font-size: 27px;
+    font-weight: 700;
+    width: 308px;
+}
+.image-2{
+    margin-top: 18px;
+    margin-left: 145px;
+    width: 89%;
+    height: 350px;
+    background: red;
+}
+.imag-2{
+    width: 525px;
+}
+.imag-3{
+    margin-left: 6px;
+    width: 525px;
+}
+.para-2{
+    height: 12px;
+    color: white;
+    text-align: center;
+    margin-top: -2px;
+    width: 525px;
+    background-color: #454545;
+    margin-left: 145px;
+    font-weight: 400;
+    font-size: 10.5px;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+}
+.para-3{
+    color: white;
+    text-align: center;
+    background-color: #454545;
+    margin-top: -23px;
+    margin-left: 681px;
+    height: 12px;
+    font-weight: 400;
+    font-size: 10.5px;
+    width: 525px;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+}
+.view-deal{
+    margin-left: 145px;
+    margin-top: 23px;
+} 
+.deal{
+    border: 0;
+    border-radius: 8px;
+    height: 56px;
+    width: 1061px;
+    background-color: #08671a;
+    color: white;
+    font-size: 1.4rem;
+}
+.footer{
+    width: 100%;
+    height: 519px;;
+    background: black;
+}
+.order-now{
+    margin-left: 148px;
+    padding-top: 51px;
+    margin-top: 100pxx;
+    color: white;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.align{ 
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    width: 1px;
+    margin-top: -17px;
+    margin-left: 150px;
+}
+.menu-deals{
+    text-decoration: none;
+}
+.deals-1{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.menu-pizza{
+    text-decoration: none;
+    margin-top: 1px;
+}
+.pizza{ 
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.menu-sides{
+    text-decoration: none;
+}
+.sides{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.menu-drinks{
+    text-decoration: none;
+}
+.drinks{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.menu-desserts{
+    text-decoration: none;
+}
+.desserts{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.about{
+    margin-left: 448px;
+    margin-top: -130px;
+    color: white;
+}
+.align-1{
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    width: 106px;
+    margin-left: 450px;
+    margin-top: -10px;
+}
+.detales{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+}
+.about-us{
+    color: white;
+}
+.contact-detales{
+    font-size: .8rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+.contactless{
+    color: white;
+}
+.nutrition-detales{
+    font-size: .8rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+.nutrition{   
+    color: white;
+}
+.career-detales{
+    font-size: .8rem;
+    font-weight: 400;
+    text-decoration: none;
+}
+.career{
+    color: white;
+}
+.our-poli{
+    color: white;
+    margin-top: -116px;
+    margin-left: 728px;
+}
+.align-2{
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;  
+    width: 169px;
+    margin-top: -11px;
+    margin-left: 731px;  
+}
+.poli-detales{
+    text-decoration: none;   
+}
+.Privcy{   
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.terms-detales{
+    text-decoration: none;
+}
+.terms{    
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.responsible{
+    text-decoration: none;
+}
+.disclosure{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.faqs{
+    text-decoration: none;
+}
+.help{
+    text-decoration: none;
+    font-size: .8rem;
+    font-weight: 400;
+    color: white;
+}
+.visit-detales{
+    margin-left: 1088px;
+    margin-top: -107px;
+    color: white;
+}
+.align-3{
+    width: 85px;
+    margin-top: -19px;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+}
+.store{
+    text-decoration: none;
+}
+.locate{
+    color: white;
+    font-size: .8rem;
+    font-weight: 400;
+}
+.blog{
+    text-decoration: none;
+}
+.global{
+    color: white;
+    font-size: .8rem;
+    font-weight: 400;
+}
+.ios{
+    margin-left: 528px;
+    margin-top: 99px;
+}
+.app-stores{
+    margin-left: 683px;
+    margin-top: -45px;
+}
+.google{
+    width: 145px;
+}
+.feedback{
+    color: white;
+    margin-left: 138px;
+    margin-top: -7px;
+}
+.para-4{
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+}
+.giv-feedback{
+    margin-top: -44px;
+    margin-left: 211px;
+}
+.button{
+    width: 10rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    border: 0;
+    border-radius: 6px;
+    height: 44px;
+    width: 10rem;
+}
+.follow{
+    margin-top: -35px;
+}
+.follow-us{
+    font-family: Open Sans, system-ui, BlinkMacSystemFont, Helvetica Neue, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: -24px;
+    margin-left: 945px;
+}
+.social-media{
+    margin-left: 920px;
+}
+.para-5{
+    margin-left: 177px;
+    text-align: center;
+    width: 900px;
+    font-size: 11px;
+    color: #78838c;;
+}
+.para-6{
+    margin-left: 177px;
+    text-align: center;
+    width: 900px;
+    font-size: 11px;
+    color: #78838c;;
+}
+.para-7{
+    margin-left: 177px;
+    text-align: center;
+    width: 900px;
+    font-size: 11px;
+    color: #78838c;
+}
+.icon-1{
+    background: white;
+    width: 66px;
+    margin-left: 601px;
+    margin-top: -11px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
